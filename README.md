@@ -1,6 +1,6 @@
 # consonantsAndVowels238E
 
-Easy Challenge #238 on https://www.reddit.com/r/dailyprogrammer w/ Bonus implemented
+Easy Challenge #238 on https://www.reddit.com/r/dailyprogrammer w/ Bonus, implemented in Python 2.7
 
 Description:
 You were hired to create words for a new language. However, your boss wants these words to follow a strict pattern of consonants and vowels. You are bad at creating words by yourself, so you decide it would be best to randomly generate them.
